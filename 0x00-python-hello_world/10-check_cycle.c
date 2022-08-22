@@ -66,4 +66,4 @@ int check_cycle(listint_t *list)
 		slow = slow->next;
 	}
 	return (0);
-g
+}
